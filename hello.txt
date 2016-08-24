@@ -1,7 +1,8 @@
-<<<<<<< HEAD
-=======
+
 hello world
 
 this is the new line
 
->>>>>>> parent of ad33858... try again commit
+try again commit
+
+testing only! -- 
